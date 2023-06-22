@@ -1,6 +1,9 @@
 # Rover URDF File for ROS
 
 This repository contains the URDF (Unified Robot Description Format) file for the "rover" robot, which can be used in ROS (Robot Operating System) applications. The URDF file describes the robot's physical structure and its joints.
+
+![Screenshot from 2023-06-11 02-47-51](https://github.com/vysh112/ROS-Rover-URDF/assets/96124935/70fb83fe-63d5-4305-8d3b-346b9297d28c)
+
 ## Robot Description
 
 The "rover" robot consists of several components:
